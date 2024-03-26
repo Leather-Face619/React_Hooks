@@ -11,14 +11,14 @@ import UseCallback  from './Components/UseCallback';
 
 function App() {
   return (<>
-    {/* <WindowSize/> */}
+    <WindowSize/>
     {/* <UseState /> */}
     {/* <UseEffect /> */}
     {/* <UseRef/> */}
     {/* <UseReducer/> */}
     {/* <UseLayoutEffect/> */}
     {/* <UseMemo/> */}
-    <UseCallback/>
+    {/* <UseCallback/> */}
   </>
   )
 }
